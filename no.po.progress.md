@@ -36,13 +36,18 @@ This document intends to track the translation progress, as well as provide defi
 - Output Device - Avspillingsenhet
 
 ### Stats
-- Level - 
+- Level - Nivå
 - Damage - Skade
 - Amount - Mengde
 - Speed - Hastighet
 - Refresh - 
 - Size - Størrelse
 - Power - Kraft
+- Crit - Krit
+- Processing Speed - Prosesseringshastighet
+- Experience - Erfaring
+- EXP - EXP
+- Repel - Frastøt/Frastøting
 
 
 
@@ -58,19 +63,19 @@ This document intends to track the translation progress, as well as provide defi
 
 ## Todo
 - ~~Class Names~~
-- [ ] Class Descriptions
+- ~~Class Descriptions~~
 - ~~Evo Names~~
-- [ ] Evo Descriptions
-- [ ] Meta Descriptions
-- [4/X] Plugin Names
+- ~~Evo Descriptions~~
+- ~~Meta Descriptions and Names~~
+- [5/X] Plugin Names
 - [1/X] Plugin Descriptions
 - ~~Protocol Names~~
-- [ ] Protocol Descriptions 
-- [ ] Stat Names
-- [ ] Stat Descriptions
-- [ ] Wep Upgrade Names
-- [ ] Wep Upgrade Descriptions
-- [ ] Wep Spawn Nouns
+- ~~Protocol Descriptions~~ a bit boring
+- ~~Stat Names~~
+- [8/18] Stat Descriptions
+- ~~Wep Upgrade Names~~
+- ~~Wep Upgrade Descriptions~~
+- ~~Wep Spawn Nouns~~
 - [ ] Upgrade Player Descriptions
 - [ ] Upgrade Weapon Descriptions
 - [ ] Wep Spawn Nouns

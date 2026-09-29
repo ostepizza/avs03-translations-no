@@ -20,6 +20,10 @@ msgstr "Murstein"
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
 msgstr ""
+"Tilføy +40 Maks HP.\n"
+"Tilføy +12 Rustning.\n"
+"Multipliser Peker Hastighet 0.8x.\n"
+"Multipliser Våpen Skade 1.1x når du tar Skade (Varer 8s, stables opp til 3)"
 
 #. Class select - name (default)
 #. source: Default
@@ -30,6 +34,8 @@ msgstr "Standard"
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
 msgstr ""
+"Ingen klassebonus eller straff.\n"
+"Balansert og grunnleggende peker."
 
 #. Class select - name (null)
 #. source: Null
@@ -40,6 +46,10 @@ msgstr "Null"
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
 msgstr ""
+"Reduser Maks HP -25.\n"
+"Tilføy +8 Pakketap.\n"
+"Multipliser Flaks 1.5x.\n"
+"Multipliser Våpen Skade 0.9x."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -50,6 +60,12 @@ msgstr "Vektor"
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
 msgstr ""
+"Multipliser Peker Hastighet 1.25x.\n"
+"Tilføy +15 Pakketap.\n"
+"Reduser Maks HP -25.\n"
+"Multipliser Våpen Skade 0.9x.\n"
+"Multipliser Peker Hastighet 1.25x og Oppdatering Hastighet 1.2x på "
+"Pakketap (Varer i 4s)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -60,6 +76,11 @@ msgstr "Breakpoint"
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
 msgstr ""
+"Øk Krit Sjanse +12%.\n"
+"Multipliser Krit Skade 1.25x.\n"
+"Reduser Maks HP -15.\n"
+"Multipliser Peker Hastighet 0.9x.\n"
+"Multipliser Våpen Skade 0.92x."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -70,6 +91,10 @@ msgstr "Tråd"
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
 msgstr ""
+"Multipliser Prosessering Hastighet 1.3x.\n"
+"Multipliser Oppdatering Hastighet 1.12x.\n"
+"Multipliser EXP Gevinst 1.08x.\n"
+"Multipliser Våpen Skade 0.85x."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -80,6 +105,12 @@ msgstr "Admin"
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
 msgstr ""
+"Start med +1 Nøkkel.\n"
+"Multipliser Mynt Gevinst 1.3x.\n"
+"Multipliser Plukkeavstand 1.3x.\n"
+"Reduser pris på Butikk Gjenstander +10%.\n"
+"Multipliser Maks HP 0.9x.\n"
+"Multipliser Våpen Skade 0.85x."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -90,6 +121,8 @@ msgstr "Kaos"
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
 msgstr ""
+"Et inkonsekvent, uforutsigbart rot av en vanskelighetsgrad. Jeg kan ikke "
+"si hva du kan forvente."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -99,7 +132,7 @@ msgstr "Lineær"
 #. Folder evolution mode - description (linear)
 #. source: A consistent linear stream of more enemies being added over time.
 msgid "EVO.linear.description"
-msgstr ""
+msgstr "En konsekvent, lineær strøm av flere fiender blir lagt til over tid."
 
 #. Folder evolution mode - name (variable)
 #. source: Variable
@@ -110,106 +143,108 @@ msgstr "Variabel"
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
 msgstr ""
+"Et variert nivå av fiender som økes og reduseres for å gi fler øyeblikk "
+"med ro med vanskeligere økninger. "
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
 msgid "META.armor.description"
-msgstr ""
+msgstr "Tilføyer +1 Rustning per Rang."
 
 #. Meta upgrade menu - description (coin_gain)
 #. source: Multiply Coin Gain by an extra +1% per Rank.
 msgid "META.coin_gain.description"
-msgstr ""
+msgstr "Multipliserer Mynt Gevinst med en ekstra +1% per Rang."
 
 #. Meta upgrade menu - description (crit_chance)
 #. source: Increases Crit Chance +1% per Rank.
 msgid "META.crit_chance.description"
-msgstr ""
+msgstr "Øker Krit Sjanse +1% per Rang."
 
 #. Meta upgrade menu - description (crit_damage)
 #. source: Multiply Crit Damage by an extra +2% per Rank.
 msgid "META.crit_damage.description"
-msgstr ""
+msgstr "Multipliserer Krit Skade med ekstra +2% per Rang."
 
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
 msgid "META.cursor_speed.name"
-msgstr ""
+msgstr "Peker Hastighet"
 
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr ""
+msgstr "Multipliser Peker Hastighet med ekstra +1% per Rang."
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
 msgid "META.exp_gain.description"
-msgstr ""
+msgstr "Multipliser EXP Gevinst med ekstra +2% per Rang."
 
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
 msgid "META.health_regen.description"
-msgstr ""
+msgstr "Tilføyer +1 Helse Regen per Rang."
 
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
 msgid "META.luck.description"
-msgstr ""
+msgstr "Multipliser Flaks med ekstra +1% per Rang."
 
 #. Meta upgrade menu - description (magnetism)
 #. source: Multiply Magnetism by an extra +2% per Rank.
 msgid "META.magnetism.description"
-msgstr ""
+msgstr "Multipliser Magnetisme med ekstra +2% per Rang."
 
 #. Meta upgrade menu - description (max_health)
 #. source: Adds +10 Max HP per Rank.
 msgid "META.max_health.description"
-msgstr ""
+msgstr "Tilføy +10 Maks HP per Rang."
 
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
 msgid "META.packet_loss.name"
-msgstr ""
+msgstr "Pakketap"
 
 #. Meta upgrade menu - description (packet_loss)
 #. source: Adds +1 Packet Loss per Rank.
 msgid "META.packet_loss.description"
-msgstr ""
+msgstr "Tilføy +1 Pakketap per Rang."
 
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
 msgid "META.proc_speed.description"
-msgstr ""
+msgstr "Multipliser Prosesseringshastighet med ekstra +1% per Rang."
 
 #. Meta upgrade menu - description (weap_amount)
 #. source: Increases Weapon Amount chance +3% per Rank.
 msgid "META.weap_amount.description"
-msgstr ""
+msgstr "Øk Våpen Mengde sjanse +3% per Rang."
 
 #. Meta upgrade menu - description (weap_damage)
 #. source: Multiply Weapon Damage by an extra +2% per Rank.
 msgid "META.weap_damage.description"
-msgstr ""
+msgstr "Multipliser Våpen Skade med ekstra +2% per Rang."
 
 #. Meta upgrade menu - description (weap_refresh)
 #. source: Multiply Weapon Refresh by an extra +1% per Rank.
 msgid "META.weap_refresh.description"
-msgstr ""
+msgstr "Multipliser Våpen Oppdatering med ekstra +1% per Rang."
 
 #. Meta upgrade menu - description (weap_repel)
 #. source: Multiply Weapon Repel by an extra +1% per Rank.
 msgid "META.weap_repel.description"
-msgstr ""
+msgstr "Multipliser Våpen Frastøting med ekstra +1% per Rang."
 
 #. Meta upgrade menu - description (weap_size)
 #. source: Multiply Weapon Size by an extra +1% per Rank.
 msgid "META.weap_size.description"
-msgstr ""
+msgstr "Multipliser Våpen Størrelse med ekstra +1% per Rang."
 
 #. Meta upgrade menu - description (weap_speed)
 #. source: Multiply Weapon Speed by an extra +1% per Rank.
 msgid "META.weap_speed.description"
-msgstr ""
+msgstr "Multipliser Våpen Hastighet med ekstra +1% per Rang."
 
 #. Plugin - name (armor_boost)
 #. source: Armo(u)r Boost
@@ -524,7 +559,7 @@ msgstr ""
 #. Plugin - name (shop_discount_25)
 #. source: Volume License
 msgid "PLUGIN.shop_discount_25.name"
-msgstr ""
+msgstr "Volumlisens"
 
 #. Plugin - description (shop_discount_25)
 #. source: Discount Shop Items +25%.
@@ -850,6 +885,8 @@ msgstr "Protokoll I"
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
 msgstr ""
+"Den laveste vanskelighetsgraden. Tjen 16 Beanz per Trygge Mappe åpnet + "
+"beseiret fiender."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -860,6 +897,8 @@ msgstr "Protokoll II"
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
 msgstr ""
+"Den andre vanskelighetsgraden. Tjen 24 Beanz per Trygge Mappe åpnet + "
+"beseiret fiender."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -870,6 +909,8 @@ msgstr "Protokoll III"
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
 msgstr ""
+"Den tredje vanskelighetsgraden. Tjen 32 Beanz per Trygge Mappe åpnet + "
+"beseiret fiender."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -880,6 +921,8 @@ msgstr "Protokoll IV"
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
 msgstr ""
+"Den fjerde vanskelighetsgraden. Tjen 48 Beanz per Trygge Mappe åpnet + "
+"beseiret fiender."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -890,97 +933,99 @@ msgstr "Protokoll V"
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
 msgstr ""
+"Du trenger ikke å gjøre dette. 64 Beanz per Trygge Mappe åpnet om du får "
+"det til."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
 msgid "STAT.upgrade_player_armor.name"
-msgstr ""
+msgstr "Rustning"
 
 #. Stat display - description (upgrade_player_armor)
 #. source: Resistence from all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_armor.description"
-msgstr ""
+msgstr "Motstand mot all innkommende Skade. (Eksponentiell)"
 
 #. Stat display - name (upgrade_player_coin_gain)
 #. source: Coin Gain
 msgid "STAT.upgrade_player_coin_gain.name"
-msgstr ""
+msgstr "Mynt Gevinst"
 
 #. Stat display - description (upgrade_player_coin_gain)
 #. source: Multiplies the amount of all Coin received.
 msgid "STAT.upgrade_player_coin_gain.description"
-msgstr ""
+msgstr "Multipliserer mengden Mynter mottatt."
 
 #. Stat display - name (upgrade_player_crit_chance)
 #. source: Crit Chance
 msgid "STAT.upgrade_player_crit_chance.name"
-msgstr ""
+msgstr "Krit Sjanse"
 
 #. Stat display - description (upgrade_player_crit_chance)
 #. source: Chance to cause Crit Hit.
 msgid "STAT.upgrade_player_crit_chance.description"
-msgstr ""
+msgstr "Sjanse for forårsake Krit Treff."
 
 #. Stat display - name (upgrade_player_crit_damage_multi)
 #. source: Crit Damage
 msgid "STAT.upgrade_player_crit_damage_multi.name"
-msgstr ""
+msgstr "Krit Skade"
 
 #. Stat display - description (upgrade_player_crit_damage_multi)
 #. source: Multiplies Damage on Crit Hit.
 msgid "STAT.upgrade_player_crit_damage_multi.description"
-msgstr ""
+msgstr "Multipliserer Skade på Krit Treff."
 
 #. Stat display - name (upgrade_player_damage_multi)
 #. source: Weapon Damage
 msgid "STAT.upgrade_player_damage_multi.name"
-msgstr ""
+msgstr "Våpen Skade"
 
 #. Stat display - description (upgrade_player_damage_multi)
 #. source: Multiplies all Damage output.
 msgid "STAT.upgrade_player_damage_multi.description"
-msgstr ""
+msgstr "Multipliserer all Skade."
 
 #. Stat display - name (upgrade_player_dodge)
 #. source: Packet Loss
 msgid "STAT.upgrade_player_dodge.name"
-msgstr ""
+msgstr "Pakketap"
 
 #. Stat display - description (upgrade_player_dodge)
 #. source: Chance to dogde all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
-msgstr ""
+msgstr "Sjanse for å unnvike all innkommende Skade. (Eksponentiell)"
 
 #. Stat display - name (upgrade_player_exp_gain)
 #. source: EXP Gain
 msgid "STAT.upgrade_player_exp_gain.name"
-msgstr ""
+msgstr "EXP Gevinst"
 
 #. Stat display - description (upgrade_player_exp_gain)
 #. source: Multiplies the amount of all EXP received.
 msgid "STAT.upgrade_player_exp_gain.description"
-msgstr ""
+msgstr "Multipliserer mengden EXP mottatt."
 
 #. Stat display - name (upgrade_player_health_regen)
 #. source: Health Regen
 msgid "STAT.upgrade_player_health_regen.name"
-msgstr ""
+msgstr "Helse Regen"
 
 #. Stat display - description (upgrade_player_health_regen)
 #. source: Amount of Health Regen every 20s.
 msgid "STAT.upgrade_player_health_regen.description"
-msgstr ""
+msgstr "Mengde Helse Regen hver 20s."
 
 #. Stats manager - HP value format
 #. source: {sign}{value} HP
 #. Keep placeholders unchanged: {sign}, {value}
 msgid "STAT.format_hp"
-msgstr ""
+msgstr "{sign}{value}HP"
 
 #. Stat display - name (upgrade_player_luck)
 #. source: Luck
 msgid "STAT.upgrade_player_luck.name"
-msgstr ""
+msgstr "Flaks"
 
 #. Stat display - description (upgrade_player_luck)
 #. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
@@ -990,7 +1035,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
 msgid "STAT.upgrade_player_magnetism_multi.name"
-msgstr ""
+msgstr "Magnetisme"
 
 #. Stat display - description (upgrade_player_magnetism_multi)
 #. source: Multiplies the radius that pulls in EXP and other pickup items.
@@ -1000,7 +1045,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_max_health)
 #. source: Max HP
 msgid "STAT.upgrade_player_max_health.name"
-msgstr ""
+msgstr "Maks HP"
 
 #. Stat display - description (upgrade_player_max_health)
 #. source: Additional Max HP.
@@ -1010,7 +1055,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_power_multi)
 #. source: Weapon Power
 msgid "STAT.upgrade_player_power_multi.name"
-msgstr ""
+msgstr "Våpen Kraft"
 
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
@@ -1020,7 +1065,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_proc_speed)
 #. source: Processing Speed
 msgid "STAT.upgrade_player_proc_speed.name"
-msgstr ""
+msgstr "Prosesseringsfart"
 
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
@@ -1030,7 +1075,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
 msgid "STAT.upgrade_player_refresh_multi.name"
-msgstr ""
+msgstr "Våpen Oppdatering"
 
 #. Stat display - description (upgrade_player_refresh_multi)
 #. source: Multiplies the speed that all weapons cooldown. (Exponential)
@@ -1040,7 +1085,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_speed)
 #. source: Cursor Speed
 msgid "STAT.upgrade_player_speed.name"
-msgstr ""
+msgstr "Peker Hastighet"
 
 #. Stat display - description (upgrade_player_speed)
 #. source: Multiplies the player movement speed.
@@ -1050,7 +1095,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_weap_amount)
 #. source: Weapon Amount
 msgid "STAT.upgrade_player_weap_amount.name"
-msgstr ""
+msgstr "Våpen Mengde"
 
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
@@ -1060,7 +1105,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
 msgid "STAT.upgrade_player_weap_size.name"
-msgstr ""
+msgstr "Våpen Størrelse"
 
 #. Stat display - description (upgrade_player_weap_size)
 #. source: Multiplies the size of all weapons.
@@ -1070,7 +1115,7 @@ msgstr ""
 #. Stat display - name (upgrade_player_weap_speed)
 #. source: Weapon Speed
 msgid "STAT.upgrade_player_weap_speed.name"
-msgstr ""
+msgstr "Våpen Hastighet"
 
 #. Stat display - description (upgrade_player_weap_speed)
 #. source: Multiplies the speed that all weapons attack. (Exponential)
@@ -1081,151 +1126,151 @@ msgstr ""
 #. source: {weapon} Damage
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.damage.name"
-msgstr ""
+msgstr "{weapon} Skade"
 
 #. Weapon upgrade card - damage stat description
 #. source: Increases {weapon} damage by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.damage.description"
-msgstr ""
+msgstr "Øker {weapon} skade med +{percent}%."
 
 #. Weapon upgrade card - attack speed stat title
 #. source: {weapon} Speed
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.speed.name"
-msgstr ""
+msgstr "{weapon} Hastighet"
 
 #. Weapon upgrade card - attack speed stat description
 #. source: Increases {weapon} attack speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.speed.description"
-msgstr ""
+msgstr "Øker {weapon} angrepshastighet med +{percent}%."
 
 #. Weapon upgrade card - refresh/cooldown stat title
 #. source: {weapon} Refresh
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.refresh.name"
-msgstr ""
+msgstr "{weapon} Oppdatering"
 
 #. Weapon upgrade card - refresh/cooldown stat description
 #. source: Increases {weapon} refresh speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.refresh.description"
-msgstr ""
+msgstr "Øker {weapon} oppdateringshastighet med +{percent}%."
 
 #. Weapon upgrade card - size stat title
 #. source: {weapon} Size
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.size.name"
-msgstr ""
+msgstr "{weapon} Størrelse"
 
 #. Weapon upgrade card - size stat description
 #. source: Increases {weapon} size by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.size.description"
-msgstr ""
+msgstr "Øker {weapon} størrelse med +{percent}%."
 
 #. Weapon upgrade card - spawn amount stat title
 #. source: {weapon} Amount
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.amount.name"
-msgstr ""
+msgstr "{weapon} Mengde"
 
 #. Weapon upgrade card - spawn amount stat description
 #. source: Adds +{percent}% chance of additional {spawn_noun}.
 #. Keep placeholders unchanged: {percent}, {spawn_noun}
 msgid "WEAPON_UPGRADE.amount.description"
-msgstr ""
+msgstr "Tilføyer +{percent}% sjanse av ytterligere {spawn_noun}."
 
 #. Weapon upgrade card - power stat title
 #. source: {weapon} Power
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.power.name"
-msgstr ""
+msgstr "{weapon} Kraft"
 
 #. Weapon upgrade card - repel power description
 #. source: Increases {weapon} Repel effect by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.repel.description"
-msgstr ""
+msgstr "Øker {weapon} Frastøtingseffekt med +{percent}%."
 
 #. Weapon upgrade card - heat stacks power description
 #. source: Increases {weapon} Heat Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.heat.description"
-msgstr ""
+msgstr "Øker {weapon} Hetestabel med +{percent}%."
 
 #. Weapon upgrade card - lag stacks power description
 #. source: Increases {weapon} Lag Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.lag.description"
-msgstr ""
+msgstr "Øker {weapon} Forsinkelsesstabel med +{percent}%."
 
 #. Weapon upgrade card - infect stacks power description
 #. source: Increases {weapon} Infect Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.infect.description"
-msgstr ""
+msgstr "Øker {weapon} Infeksjonsstabel med +{percent}%."
 
 #. Weapon amount upgrade - phrase after "additional" for AVD
 #. source: logos spawning
 msgid "WEAPON.avd.spawn_noun"
-msgstr ""
+msgstr "logoer skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for Bubbles
 #. source: bubbles spawning
 msgid "WEAPON.bubbles.spawn_noun"
-msgstr ""
+msgstr "bobler skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for C: Drive
 #. source: drives spawning
 msgid "WEAPON.cdrive.spawn_noun"
-msgstr ""
+msgstr "harddisker skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for Cut
 #. source: scissors spawning
 msgid "WEAPON.cut.spawn_noun"
-msgstr ""
+msgstr "sakser skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for Firewall
 #. source: fire rings spawning
 msgid "WEAPON.firewall.spawn_noun"
-msgstr ""
+msgstr "brannringer skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for FontArt
 #. source: letters spawning
 msgid "WEAPON.fontart.spawn_noun"
-msgstr ""
+msgstr "bokstaver skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
 #. source: shots
 msgid "WEAPON.hitmarkers.spawn_noun"
-msgstr ""
+msgstr "skudd skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for Paint
 #. source: circles spawning
 msgid "WEAPON.paint.spawn_noun"
-msgstr ""
+msgstr "sirkler skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for Pinball
 #. source: pinballs spawning
 msgid "WEAPON.pinball.spawn_noun"
-msgstr ""
+msgstr "pinballer skapes"
 
 #. Weapon amount upgrade - phrase after "additional" for Quarantine
 #. source: scans
 msgid "WEAPON.quarantine.spawn_noun"
-msgstr ""
+msgstr "scanninger"
 
 #. Weapon amount upgrade - phrase after "additional" for Search
 #. source: magnifying glasses
 msgid "WEAPON.search.spawn_noun"
-msgstr ""
+msgstr "forstørrelsesglass"
 
 #. Weapon amount upgrade - phrase after "additional" for Solitaire
 #. source: cards spawning
 msgid "WEAPON.solitaire.spawn_noun"
-msgstr ""
+msgstr "kort skapes"
 
 #. Upgrade card - description (upgrade_player_armor)
 #. source: Increases damage resistance by +{percent}%.
@@ -2585,7 +2630,7 @@ msgstr "Produsent"
 #. Credits window - role title. Keep the name Virry.
 #. source: Animator (Virry)
 msgid "CREDITS.animation_virry"
-msgstr "Animerer (Virry)"
+msgstr "Animatør (Virry)"
 
 #. Credits window - role title
 #. source: Community QA
