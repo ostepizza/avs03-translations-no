@@ -1,4 +1,6 @@
-# Translating Antivirus Survivors 2003 Professional
+# Translating Antivirus Survivors 2003 Professional to Norwegian
+> ❗ **_NOTE:_** \
+> This repo focuses on translating AVS03 to Norwegian. Any help with translations and/or improvements are welcome through a PR.
 
 Thanks for helping. You do not need the source code.
 

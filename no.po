@@ -964,7 +964,7 @@ msgstr "Krit Sjanse"
 #. Stat display - description (upgrade_player_crit_chance)
 #. source: Chance to cause Crit Hit.
 msgid "STAT.upgrade_player_crit_chance.description"
-msgstr "Sjanse for forårsake Krit Treff."
+msgstr "Sjanse for å forårsake Krit Treff."
 
 #. Stat display - name (upgrade_player_crit_damage_multi)
 #. source: Crit Damage
@@ -2259,7 +2259,7 @@ msgstr ""
 #. source: level%d.doc - SH Docs 2003
 #. Keep placeholders unchanged: %d
 msgid "UI.window_title"
-msgstr ""
+msgstr "nivå%d.doc - SH Docs 2003"
 
 #. End-of-round timer prompt for the Safe Folder
 #. source: Get to the Safe Folder!
@@ -3264,7 +3264,7 @@ msgstr "Deaktivert"
 #. source: Progress: %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.store_tooltip_locked"
-msgstr ""
+msgstr "Progresjon: %d / %d"
 
 #. UI (script-driven)
 #. source: Click to purchase for %d Beanz
@@ -3275,18 +3275,18 @@ msgstr "Trykk for å kjøpe til %d Beanz"
 #. UI (script-driven)
 #. source: Click to disable spawning
 msgid "UI.store_tooltip_owned_toggle"
-msgstr ""
+msgstr "Klikk for å deaktivere spawning"
 
 #. UI (script-driven)
 #. source: Click to enable spawning
 msgid "UI.store_tooltip_disabled"
-msgstr ""
+msgstr "Klikk for å aktivere spawning"
 
 #. Policies locked until the chosen protocol or higher is completed once
 #. source: Complete %s or higher once to enable Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.policies_locked"
-msgstr ""
+msgstr "Fullfør %s eller høyere én gang for å aktivere Policyer."
 
 #. Domain Policies locked until 3 distinct policies completed on the chosen protocol or higher
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
@@ -3315,18 +3315,18 @@ msgstr "Domenepolicyer"
 #. UI (script-driven)
 #. source: Extra Difficulty
 msgid "UI.policies_header"
-msgstr ""
+msgstr "Ekstra Vanskelighetsgrad"
 
 #. UI (script-driven)
 #. source: Extra Difficulty - %d/%d Complete
 #. Keep placeholders unchanged: %d
 msgid "UI.policies_header_progress"
-msgstr ""
+msgstr "Ekstra Vanskelighetsgrad - %d/%d Fullført"
 
 #. UI (script-driven)
 #. source: Select a Folder Difficulty first.
 msgid "UI.policies_select_protocol"
-msgstr ""
+msgstr "Velg en Mappe Vanskelighetsgrad først."
 
 #. Policies menu / starter folder tree root
 #. source: Starter Folder
@@ -3383,7 +3383,7 @@ msgstr ""
 #. UI (script-driven)
 #. source: Reroll Locked
 msgid "UI.reroll_disabled"
-msgstr ""
+msgstr "Omkast Låst"
 
 #. Toast shown when something is unlocked
 #. source: Unlocked: %s
@@ -3412,25 +3412,25 @@ msgstr ""
 #. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
-msgstr ""
+msgstr "%s + %d Beanz"
 
 #. Weapon driver unlock requirement template
 #. source: Reach level {amount} with {weapon} in a single run
 #. Keep placeholders unchanged: {amount}, {weapon}
 msgid "UI.unlock_driver_req"
-msgstr ""
+msgstr "Nå nivå {amount} med {weapon} i ett forsøk. "
 
 #. Weapon driver unlock reward template
 #. source: {weapon} Drivers
 #. Keep placeholders unchanged: {weapon}
 msgid "UI.unlock_driver_reward"
-msgstr ""
+msgstr "{weapon} Drivere"
 
 #. Weapon driver unlock description template
 #. source: Unlocks Weapon Drivers for {weapon}.
 #. Keep placeholders unchanged: {weapon}
 msgid "UI.unlock_driver_desc"
-msgstr ""
+msgstr "Låser opp Våpen Drivere for {weapon}."
 
 #. Shop screen - title
 #. source: Shop
@@ -3470,7 +3470,7 @@ msgstr "Våpendrivere"
 #. Weapon Drivers screen - fake window title
 #. source: drivers.doc - SH Docs 2003
 msgid "UI.weapon_drivers_window"
-msgstr ""
+msgstr "drivere.doc - SH Docs 2003"
 
 #. Weapon Drivers screen - speech prompt with weapon name
 #. source: Select a driver for %s.
@@ -3493,7 +3493,7 @@ msgstr "Samler mynter"
 #. source: Investment withdrawn (%.2f)
 #. Keep placeholders unchanged: %.2f
 msgid "UI.notif_investment_withdrawn"
-msgstr ""
+msgstr "Investering trukket ut (%.2f)"
 
 #. Side Task complete toast
 #. source: Side Task complete
@@ -3503,13 +3503,13 @@ msgstr ""
 #. Vapidshare cracked installer spawned toast
 #. source: Cracked Installer created
 msgid "UI.notif_vapidshare_complete"
-msgstr ""
+msgstr "Cracket Installer opprettet"
 
 #. Vapidshare part finished toast. %s is the part filename
 #. source: %s complete
 #. Keep placeholders unchanged: %s
 msgid "UI.notif_vapidshare_part"
-msgstr ""
+msgstr "%s fullført"
 
 #. Not enough keys toast
 #. source: Not Enough Keys :(
@@ -4888,7 +4888,7 @@ msgstr "Dobbelklikk for å Installere Utvidelse"
 #. Desktop icon tooltip
 #. source: Double-Click to Generate Key
 msgid "CLICKABLE.double_click_keygen"
-msgstr "Dobbelklikk for å Generere Serienummer"
+msgstr "Dobbelklikk for å Generere Serienøkkel"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Play
@@ -5222,6 +5222,8 @@ msgstr "Poengsum"
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
 msgstr ""
+"Forsøksscore fra elimineringer, nivåer, trygge mapper og en "
+"fullføringsbonus."
 
 #. Run stats panel row
 #. source: Class
@@ -5252,104 +5254,105 @@ msgstr "Ingen"
 #. source: Tasks Completed - %d
 #. Keep placeholders unchanged: %d
 msgid "UI.win_tasks_title"
-msgstr ""
+msgstr "Oppgaver Fullført - %d"
 
 #. UI (script-driven)
 #. source: No new tasks this run
 msgid "UI.win_tasks_empty"
-msgstr ""
+msgstr "Ingen nye oppgaver dette forsøket"
 
 #. Safe Folder explorer - tree pane header
 #. source: Folders
 msgid "UI.safe_hub_folders"
-msgstr ""
+msgstr "Mapper"
 
 #. Safe Folder explorer - battle folder tree row
 #. source: Battle Folder %d
 #. Keep placeholders unchanged: %d
 msgid "UI.safe_hub_battle_folder"
-msgstr ""
+msgstr "Kampmappe %d"
 
 #. Safe Folder explorer - previous round stats header
 #. source: Previous Round
 msgid "UI.safe_hub_last_round"
-msgstr ""
+msgstr "Forrige Runde"
 
 #. Safe Folder explorer - previous round window title
 #. source: BattleFolder%d.xls
 #. Keep placeholders unchanged: %d
 msgid "UI.safe_hub_round_xls"
-msgstr ""
+msgstr "Kampmappe%d.xls"
 
 #. Safe Folder explorer - no tasks completed last round
 #. source: No new tasks this round
 msgid "UI.safe_hub_tasks_empty"
-msgstr ""
+msgstr "Ingen nye oppgaver denne runden"
 
 #. Safe Folder explorer - last round kills tooltip
 #. source: Enemies cleared in the last Battle Folder.
 msgid "RUNSTAT.last_round_kills_desc"
-msgstr ""
+msgstr "Fiender eliminert i den siste Kampmappen."
 
 #. Safe Folder explorer - last round files tooltip
 #. source: Files opened in the last Battle Folder.
 msgid "RUNSTAT.last_round_files_desc"
-msgstr ""
+msgstr "Filer åpnet i den siste Kampmappen."
 
 #. Safe Folder explorer - last round coin tooltip
 #. source: Coin collected in the last Battle Folder.
 msgid "RUNSTAT.last_round_coin_desc"
-msgstr ""
+msgstr "Mynter samlet i den siste Kampmappen."
 
 #. Safe Folder explorer - last round keys tooltip
 #. source: Keys collected in the last Battle Folder.
 msgid "RUNSTAT.last_round_keys_desc"
-msgstr ""
+msgstr "Nøkler samlet i den siste Kampmappen."
 
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
 msgstr ""
+"Beanz tjent i den siste Kampmappen, includert Trygg Mappe-belønningen."
 
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr ""
+msgstr "DPS"
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
 msgid "RUNSTAT.dps_desc"
-msgstr ""
+msgstr "Skade per sekund i Kampmapper dette forsøket."
 
 #. Run damage dealt tooltip
 #. source: Total damage dealt this run.
 msgid "RUNSTAT.damage_dealt_desc"
-msgstr ""
+msgstr "Total skade gitt dette forsøket."
 
 #. Run biggest hit tooltip
 #. source: Highest single hit this run.
 msgid "RUNSTAT.biggest_hit_desc"
-msgstr ""
+msgstr "Høyeste enkelttreff dette forsøket."
 
 #. Run Side Tasks completed label
 #. source: Side Tasks
 msgid "RUNSTAT.side_tasks"
-msgstr ""
+msgstr "Ekstraoppgaver"
 
 #. Run Side Tasks completed tooltip
 #. source: Side Tasks completed this run.
 msgid "RUNSTAT.side_tasks_desc"
-msgstr ""
+msgstr "Ekstraoppgaver fullført dette forsøket."
 
 #. Last round DPS tooltip
 #. source: Damage per second in the last Battle Folder.
 msgid "RUNSTAT.last_round_dps_desc"
-msgstr ""
+msgstr "Skade per sekund i den siste Kampmappen."
 
 #. Last round damage dealt tooltip
 #. source: Damage dealt in the last Battle Folder.
 msgid "RUNSTAT.last_round_damage_desc"
-msgstr ""
+msgstr "Skade gitt i den siste Kampmappen."
 
 #. Scene label
 msgid "Packet Loss"
@@ -5512,17 +5515,17 @@ msgstr "Utvidet Tabell"
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
 msgid "DRIVER.extended_table.description"
-msgstr ""
+msgstr "Dette våpenet utløper ikke lenger tidligere av Angrepshastighet."
 
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
 msgid "DRIVER.bumper.name"
-msgstr ""
+msgstr "Bumper"
 
 #. Weapon driver / overclock card - description (bumper)
 #. source: On wall bounce: Increase Damage +50% and trigger a Blast.
 msgid "DRIVER.bumper.description"
-msgstr ""
+msgstr "Ved veggsprett: Øk Skade +50% og utløs en Eksplosjon."
 
 #. Weapon driver / overclock card - name (avd_fragmented)
 #. source: Fragmented
@@ -5533,6 +5536,8 @@ msgstr "Fragmentert"
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
 msgstr ""
+"Ved veggsprett: del inn i to kopier med halv størrelse.\n"
+"Kopier kan splittes én gang. "
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5549,7 +5554,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
 msgid "DRIVER.avn_buddy.name"
-msgstr ""
+msgstr "Kompisliste"
 
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
@@ -5567,6 +5572,8 @@ msgstr "Parrede Enheter"
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
 msgstr ""
+"Tilføy +1 Mengde. Øk Kraft +25%.\n"
+"Øk Hastighet +20%."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5589,11 +5596,13 @@ msgstr "Skum"
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
 msgstr ""
+"Ved veggsprett: del inn i to kopier med halv størrelse.\n"
+"Kopier kan splittes én gang. "
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
 msgid "DRIVER.cdrive_seek.name"
-msgstr ""
+msgstr "Søk"
 
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
@@ -5603,7 +5612,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
 msgid "DRIVER.cdrive_cleanup.name"
-msgstr ""
+msgstr "Diskopprydding"
 
 #. Weapon driver / overclock card - description (cdrive_cleanup)
 #. source: Slams target enemies on screen.
@@ -5613,7 +5622,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cone_detour)
 #. source: Detour
 msgid "DRIVER.cone_detour.name"
-msgstr ""
+msgstr "Omkjøring"
 
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
@@ -5623,17 +5632,19 @@ msgstr ""
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
 msgid "DRIVER.cone_workzone.name"
-msgstr ""
+msgstr "Arbeidsområde"
 
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
 msgstr ""
+"Tilføy +1 Mengde.\n"
+"Øk Kraft +30%."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
 msgid "DRIVER.cruiser_multitab.name"
-msgstr ""
+msgstr "Nettleserkapring"
 
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
@@ -5643,7 +5654,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
 msgid "DRIVER.cruiser_popup.name"
-msgstr ""
+msgstr "Popup Storm"
 
 #. Weapon driver / overclock card - description (cruiser_popup)
 #. source: Tabs chase enemies until the attack ends.
@@ -5653,7 +5664,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cut_cleave)
 #. source: Cleave
 msgid "DRIVER.cut_cleave.name"
-msgstr ""
+msgstr "Kløyve"
 
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
@@ -5675,7 +5686,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
 msgid "DRIVER.email_cc.name"
-msgstr ""
+msgstr "Flammemail"
 
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
@@ -5685,12 +5696,12 @@ msgstr ""
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
 msgid "DRIVER.email_bounce.name"
-msgstr ""
+msgstr "Mislykket levering"
 
 #. Weapon driver / overclock card - description (email_bounce)
 #. source: When the last envelope bounces, start Refresh.
 msgid "DRIVER.email_bounce.description"
-msgstr ""
+msgstr "Når den siste konvolutten spretter, begynn Oppdatering."
 
 #. Weapon driver / overclock card - name (firewall_deny)
 #. source: Deny
@@ -5707,12 +5718,12 @@ msgstr ""
 #. Weapon driver / overclock card - name (firewall_stealth)
 #. source: Flameout
 msgid "DRIVER.firewall_stealth.name"
-msgstr ""
+msgstr "Flammeslukking"
 
 #. Weapon driver / overclock card - description (firewall_stealth)
 #. source: When the last flame dies, start Refresh.
 msgid "DRIVER.firewall_stealth.description"
-msgstr ""
+msgstr "Når den siste flammen dør, begynn Oppdatering."
 
 #. Weapon driver / overclock card - name (fontart_bold)
 #. source: Bold
@@ -5723,6 +5734,8 @@ msgstr "Fet"
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
 msgstr ""
+"Øk Størrelse +60%. Øk Kraft +60%.\n"
+"Reduser Mengde -25%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
 #. source: WordArt
@@ -5739,7 +5752,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
 msgid "DRIVER.fraps_benchmark.name"
-msgstr ""
+msgstr "Referansemåling"
 
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
@@ -5749,17 +5762,19 @@ msgstr ""
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
 msgid "DRIVER.fraps_vsync.name"
-msgstr ""
+msgstr "VSync"
 
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
 msgstr ""
+"FPS tall spretter av vegger.\n"
+"Øk Størrelse +20%."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
 msgid "DRIVER.hitmarkers_headhunter.name"
-msgstr ""
+msgstr "Hodejeger"
 
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
@@ -5769,7 +5784,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
 msgid "DRIVER.hitmarkers_killstreak.name"
-msgstr ""
+msgstr "Drapsstreak "
 
 #. Weapon driver / overclock card - description (hitmarkers_killstreak)
 #. source: Cleared enemies increase attack Speed in the next attack.
@@ -5779,7 +5794,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (minesweeper_flag)
 #. source: Incendiary Charge
 msgid "DRIVER.minesweeper_flag.name"
-msgstr ""
+msgstr "Brannladning"
 
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
@@ -5789,17 +5804,17 @@ msgstr ""
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
 msgid "DRIVER.minesweeper_chord.name"
-msgstr ""
+msgstr "Chord"
 
 #. Weapon driver / overclock card - description (minesweeper_chord)
 #. source: Mines stay until triggered.
 msgid "DRIVER.minesweeper_chord.description"
-msgstr ""
+msgstr "Miner forblir til de utløses."
 
 #. Weapon driver / overclock card - name (modem_handshake)
 #. source: Dial-up Congestion
 msgid "DRIVER.modem_handshake.name"
-msgstr ""
+msgstr "Dial-up Overbelastning"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5821,7 +5836,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
 msgid "DRIVER.orchestra_fortissimo.name"
-msgstr ""
+msgstr "Faneoverbelastning"
 
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
@@ -5836,7 +5851,7 @@ msgstr "Avslutt Prosess"
 #. Weapon driver / overclock card - description (orchestra_taskkill)
 #. source: Increase execute chance.
 msgid "DRIVER.orchestra_taskkill.description"
-msgstr ""
+msgstr "Øk sjanse for henrettelse."
 
 #. Weapon driver / overclock card - name (paint_spill)
 #. source: Spill
@@ -5853,27 +5868,31 @@ msgstr ""
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
 msgid "DRIVER.paint_fill.name"
-msgstr ""
+msgstr "Malingsspann"
 
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
 msgstr ""
+"Tilføy +1 Mengde.\n"
+"Øk Kraft +40%."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
 msgid "DRIVER.pinball_tilted.name"
-msgstr ""
+msgstr "Tiltet"
 
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
 msgstr ""
+"Ved veggsprett: Øk Størrelse. Skjer opp til to ganger.\n"
+"Reduser Størrelse -30%."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
 msgid "DRIVER.quarantine_strict.name"
-msgstr ""
+msgstr "Strengt"
 
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
@@ -5905,17 +5924,17 @@ msgstr ""
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
 msgid "DRIVER.satellite_uplink.name"
-msgstr ""
+msgstr "Opplink"
 
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
 msgid "DRIVER.satellite_uplink.description"
-msgstr ""
+msgstr "Paraboler følger deg gjennom levetiden deres."
 
 #. Weapon driver / overclock card - name (scimitar_dragon)
 #. source: Weapon Poison
 msgid "DRIVER.scimitar_dragon.name"
-msgstr ""
+msgstr "Forgiftet Våpen"
 
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
@@ -5925,12 +5944,12 @@ msgstr ""
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
 msgid "DRIVER.scimitar_dual.name"
-msgstr ""
+msgstr "Dual Wield"
 
 #. Weapon driver / overclock card - description (scimitar_dual)
 #. source: Add +2 Amount.
 msgid "DRIVER.scimitar_dual.description"
-msgstr ""
+msgstr "Tilføy +2 Mengde."
 
 #. Weapon driver / overclock card - name (search_deep)
 #. source: Deep Search
@@ -5951,26 +5970,32 @@ msgstr "Finn Neste"
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
 msgstr ""
+"Øk Hastighet +30%.\n"
+"Øk Oppdatering +20%."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
 msgid "DRIVER.sniper_scope.name"
-msgstr ""
+msgstr "Høykaliber"
 
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
 msgstr ""
+"Multipliser Skade 1.5x. Øk Kraft +30%.\n"
+"Øk Oppdatering +25%."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
 msgid "DRIVER.sniper_oneshot.name"
-msgstr ""
+msgstr "Ett Skudd"
 
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
 msgstr ""
+"Tilføyer +7% sjanse for henrettelse.\n"
+"Øk Skade +25%."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -5992,7 +6017,7 @@ msgstr "(1) Varsel!!! KRITISK"
 #. Scene label
 #. screens: headshot_text.tscn
 msgid "Headshot!"
-msgstr ""
+msgstr "Hodeskudd!"
 
 #. Scene label
 #. screens: defrag_window.tscn
@@ -6002,7 +6027,7 @@ msgstr "Volum"
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "Session Status"
-msgstr ""
+msgstr "Øktstatus"
 
 #. Scene label
 #. screens: defrag_window.tscn
@@ -6022,22 +6047,22 @@ msgstr "Defragmenterer"
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "Estimated exp before defragmentation:"
-msgstr ""
+msgstr "Estimert exp før defragmentering:"
 
 #. Scene label
 #. screens: dll_window.tscn
 msgid "Missing dynamic link library scd.dll located."
-msgstr ""
+msgstr "Det manglene dynamiske koblingsbiblioteket scd.dll ble funnet."
 
 #. Scene label
 #. screens: dll_window.tscn
 msgid "Procedure can now resume."
-msgstr ""
+msgstr "Prosedyren kan nå fortsette."
 
 #. Scene label
 #. screens: download_ram_window.tscn
 msgid "RAM Downloader Professional (Legal)"
-msgstr ""
+msgstr "RAM Nedlaster Pro (Lovlig)"
 
 #. Scene label
 #. screens: download_ram_window.tscn
@@ -6047,12 +6072,12 @@ msgstr "Din RAM lastes ned..."
 #. Scene label
 #. screens: keygen_window.tscn
 msgid "Serial:"
-msgstr "Serienummer:"
+msgstr "Serienøkkel:"
 
 #. Scene label
 #. screens: keygen_window.tscn
 msgid "Generate Key"
-msgstr "Generer Serienummer"
+msgstr "Generer Serienøkkel"
 
 #. Scene label
 #. screens: lem_upgrade_screen.tscn
@@ -6102,7 +6127,7 @@ msgstr "!!! !!  VINNER VINNER VINER!!! !!!"
 #. Scene label
 #. screens: spam_ad_4.tscn
 msgid "FREE AVDs CLI..."
-msgstr ""
+msgstr "GRATIS DVDer CLI..."
 
 #. Scene label
 #. screens: spam_ad_5.tscn
@@ -6127,7 +6152,7 @@ msgstr "Hey DUMMING!!"
 #. Scene label
 #. screens: spam_ad_9.tscn
 msgid "UH OHHHHHHHHH WARNING YOU MIG..."
-msgstr ""
+msgstr "UH OHHHHHHHHH ADVARER DEG..."
 
 #. Scene label
 #. screens: spam_ad_10.tscn
@@ -6165,7 +6190,7 @@ msgstr ""
 #. Scene label
 #. screens: zip_window.tscn
 msgid "Progress will reset if area is abandoned"
-msgstr ""
+msgstr "Progresjon resettes dersom området forlates"
 
 #. Scene label
 #. screens: main.tscn
@@ -6190,7 +6215,7 @@ msgstr "Velkommen..."
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Let's get started with Double-Clicking some settings."
-msgstr ""
+msgstr "La oss begynne med å Dobbelklikke på noen innstillinger."
 
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
@@ -6210,7 +6235,7 @@ msgstr "Flott, så bare velg et våpen du ønsker å starte med."
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Folder Evolution"
-msgstr ""
+msgstr "Mappe Evolusjon"
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6307,6 +6332,8 @@ msgid ""
 "Add +10 Max HP.\n"
 "Heal 20% of Max HP when opening a Safe Folder."
 msgstr ""
+"Tilføy +10 Maks HP.\n"
+"Helbred 20% av Maks HP ved åpning av en Trygg Mappe."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6358,11 +6385,14 @@ msgid ""
 "enjoy and have a great day <3\n"
 "shaun"
 msgstr ""
+"Tusen takk for at du spiller. Det betyr hele verden for meg.\n"
+"kos deg og ha en flott dag <3\n"
+"shaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "UpgradeManager 2003 rc2"
-msgstr ""
+msgstr "OppgraderingsBehandler 2003 rc2"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6382,7 +6412,7 @@ msgstr "Innstillinger"
 #. Scene label
 #. screens: options_menu.tscn
 msgid "SFX Volume"
-msgstr ""
+msgstr "Lydeffekt Volum"
 
 #. Scene label
 #. screens: options_menu.tscn
@@ -6409,22 +6439,22 @@ msgstr ""
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Vsync:"
-msgstr ""
+msgstr "Vsync:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Toggle"
-msgstr ""
+msgstr "Av/på"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "FPS Cap:"
-msgstr ""
+msgstr "FPS grense:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Cycle"
-msgstr ""
+msgstr "Bytt"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6434,57 +6464,57 @@ msgstr "Språk:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Window Mode:"
-msgstr ""
+msgstr "Vindusmodus:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Display Zoom:"
-msgstr ""
+msgstr "Skjerm Zoom:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Animation Speed:"
-msgstr ""
+msgstr "Animasjonshastighet:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Master Volume:"
-msgstr ""
+msgstr "Hovedvolum:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Music Volume:"
-msgstr ""
+msgstr "Musikkvolum:"
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Keygen Volume:"
-msgstr ""
+msgstr "Keygenvolum:"
 
 #. Scene label
 #. screens: shop_screen.tscn
 msgid "Upgrade Shop"
-msgstr ""
+msgstr "Oppgraderingsbutikk"
 
 #. Scene label
 #. screens: sound_button.tscn
 msgid "Sound Button"
-msgstr ""
+msgstr "Lydknapp"
 
 #. Scene label
 #. screens: upgrade_button.tscn
 msgid "Search Refresh"
-msgstr ""
+msgstr "Søkeoppdatering"
 
 #. Scene label
 #. screens: upgrade_button.tscn
@@ -6501,7 +6531,7 @@ msgstr "Kilder"
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Rarity"
-msgstr "Raritet"
+msgstr "Sjeldenhet"
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6521,7 +6551,7 @@ msgstr "Status"
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Seeds"
-msgstr ""
+msgstr "Seedere"
 
 #. Scene label
 #. screens: torrent_window.tscn

@@ -40,14 +40,17 @@ This document intends to track the translation progress, as well as provide defi
 - Damage - Skade
 - Amount - Mengde
 - Speed - Hastighet
-- Refresh - 
+- Refresh - Oppdatering
 - Size - Størrelse
 - Power - Kraft
 - Crit - Krit
 - Processing Speed - Prosesseringshastighet
 - Experience - Erfaring
 - EXP - EXP
+
 - Repel - Frastøt/Frastøting
+- Lag - Lag
+- Heat - Hete
 
 
 
